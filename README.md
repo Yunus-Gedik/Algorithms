@@ -1,2 +1,2 @@
 # Algorithms
-Homeworks done in "Introduction to Algorithm Design" course in python 3.
+Homeworks done in "Introduction to Algorithm Design" course in python 3 programming language.
